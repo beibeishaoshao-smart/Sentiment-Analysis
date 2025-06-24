@@ -1,5 +1,7 @@
 The Beige Book is a Federal Reserve System publication about current economic conditions across the 12 Federal Reserve Districts.
+
 Follow the instructions step by step:
+
 web scraper
 preprocess financial text data 
 use Finbert model to calculate sentiment scores over time
