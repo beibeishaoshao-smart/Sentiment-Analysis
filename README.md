@@ -10,6 +10,9 @@ use Finbert model to calculate sentiment scores over time
 
 merge and create a new dataset for further analysis: sentiment data, decision data, rate change, sentiment score
 
-use machine learning models to do regression analysis: train test dataset split, linear regression, decision tree, random forest
+EDA on new dataset
+
+build machine learning models to do regression analysis: train test dataset split, linear regression, decision tree, random forest
+(use sentiment score to predict interest rate change)
 
 use machine learning models to do classification
